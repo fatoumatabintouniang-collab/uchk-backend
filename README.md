@@ -94,8 +94,9 @@ uchk-backend/
 ### 1️⃣ Cloner le projet
 
 ```bash
-git clone <url-du-repo>
+git clone https://github.com/fatoumatabintouniang-collab/uchk-backend.git
 cd uchk-backend
+npm install 
 ```
 
 ### 2️⃣ Configurer la base de données
